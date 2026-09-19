@@ -1,5 +1,8 @@
 # STEAMROLLER — Fast End-to-End Speech Repair
 
+## UI Design
+<img width="1919" height="842" alt="image" src="https://github.com/user-attachments/assets/ecfe3d08-85c4-4fcc-8483-6d1a712dd9b4" />
+
 ## Flow
 Upload stuttered audio -> Whisper ASR -> NLP cleaning -> local repair agents -> repaired audio output.
 
